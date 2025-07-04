@@ -426,3 +426,6 @@ FodyWeavers.xsd
 *.tfstate
 *.tfstate.*
 *.exe
+.terraform/
+*.tfstate
+*.tfstate.*
